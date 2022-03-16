@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e19345db.css",
+    "main.js": "/static/js/main.96cde9f8.js",
+    "static/media/portrait_white.png": "/static/media/portrait_white.f17d0a11af6fd4e5cfda.png",
+    "static/media/portrait_black.png": "/static/media/portrait_black.f051c7a2a67b64a94531.png",
+    "static/media/header.jpg": "/static/media/header.9ee5a121426ba4b078bd.jpg",
+    "static/media/landscape_black.png": "/static/media/landscape_black.119d326c995c472dbad8.png",
+    "static/media/antoine-barres.jpg": "/static/media/antoine-barres.bc3299c239c25e5bf937.jpg",
+    "static/media/landscape_white.png": "/static/media/landscape_white.62063fa5f665be150dc0.png",
+    "static/media/portrait_gold.png": "/static/media/portrait_gold.68b17216dc5ec1cd29e6.png",
+    "static/media/landscape_gold.png": "/static/media/landscape_gold.78efbdc6dabd91a0b693.png",
+    "static/media/landscape_pink.png": "/static/media/landscape_pink.48170a4fc18eb03df930.png",
+    "static/media/portrait_pink.png": "/static/media/portrait_pink.1585db130f00c8eb7857.png",
+    "static/media/landscape_red.png": "/static/media/landscape_red.af7d18d2c9acdafa1bb5.png",
+    "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "static/media/portrait_red.png": "/static/media/portrait_red.7ea49bd24a1b23d715be.png",
+    "index.html": "/index.html",
+    "main.e19345db.css.map": "/static/css/main.e19345db.css.map",
+    "main.96cde9f8.js.map": "/static/js/main.96cde9f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e19345db.css",
+    "static/js/main.96cde9f8.js"
+  ]
+}
